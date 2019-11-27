@@ -1,9 +1,9 @@
-##Aplicacion de comandos NodeJS
+## Aplicacion de comandos NodeJS
 
 recuerda instalar los paquetes
 
 
 ```
-npm
+npm install
 
 ```
